@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Methila Deb</h1>
 <h3 align="center">A recent college graduate eager to explore diverse roles in the tech industry.</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="coding" width="300" src="[https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif](https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952007lqv5yoej7h3txp3pgjkgqa3yvx9tf44d3b0nh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=methiladeb&label=Profile%20views&color=0e75b6&style=flat" alt="methiladeb" /> </p>
 
