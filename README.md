@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Methila Deb</h1>
-<h3 align="center">A recent Hunter College graduate with a major in Computer Science and a minor in Psychology, eager to explore diverse roles in the tech industry.</h3>
+<h3 align="center">A recent college graduate eager to explore diverse roles in the tech industry.</h3>
+
+<img align="right" alt="coding" with="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=methiladeb&label=Profile%20views&color=0e75b6&style=flat" alt="methiladeb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=methiladeb" alt="methiladeb" /></a> </p>
 
 - 📫 How to reach me **methiladeb@gmail.com**
 
